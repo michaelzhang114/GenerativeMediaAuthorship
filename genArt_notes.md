@@ -35,4 +35,5 @@
 - has emergent structure
 
 ![Fractal1](fractal1.png)
+![Fractal2](fractal2.png)
 
