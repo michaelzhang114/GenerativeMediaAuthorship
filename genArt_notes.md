@@ -1,6 +1,7 @@
 
+## Generative Art: A Practical Guide using Processing - Matt Pearson
 
-### Generative
+### Generative art
 - algorithmically creating an aesthetic
 - collaboration between artist and autonomous system
 
@@ -9,19 +10,18 @@
 - web-rendered
 - object oriented
 
-### Emergence
+### The emergence property
 - complex outcomes from simple interactions
 - `noise functions` used to introduce unpredictability -- or not
-- individual best-interst vs. collective best-interest
+- individual interest vs. collective interest
 
-### Objected-oriented programming
-- objected-based rather than instruction-based
+### Object-oriented programming
+- object-based rather than instruction-based
 - instantiating classes
 - e.g. jazz pianist class
   - instances: `KeithJarrett`, `BillEvans`, `ArtTatum`
   - methods (functionality): `recordAlbum()`, `playChord('B-min7')`
 - objects are 'active citizens' with traits and individual interests
-
 
 ### Autonomy
 - cellular automata
@@ -33,4 +33,6 @@
 - occurs in nature
 - algorithmically reproduced by loops and recursion
 - has emergent structure
+
+![Fractal1](fractal1.png)
 
