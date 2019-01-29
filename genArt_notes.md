@@ -8,7 +8,7 @@
 ### The 'Processing' programming language
 - based on java
 - web-rendered
-- object oriented
+- object-oriented
 
 ### The emergence property
 - complex outcomes from simple interactions
@@ -24,6 +24,7 @@
 - objects are 'active citizens' with traits and individual interests
 
 ### Autonomy
+- subsystems have freedom of choice
 - cellular automata
   - segregation (http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/)
   - game of life (https://playgameoflife.com/)
